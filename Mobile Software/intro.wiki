@@ -1,0 +1,52 @@
+=Intro=
+[[overview|Overview]]
+
+# General information
+Groups of 6 throughout, individual oral exam
+Report in the end (Max 15 pages)
+Individual contribution should be mentioned throughout
+
+Competition between all groups, the winner gets a prize
+
+==Group:==
+- Me
+- x
+- x
+- x
+- x
+- x
+
+===Types:===
+- Utility
+- Locale
+- Informative
+- Productivity
+- Immersive
+
+=Group structure:=
+- 1 for documentation
+- 2 persons for design
+- 2 persons for development
+- 1 person for testing
+
+=Schedule:=
+Sep-Oct
+- Design
+
+Oct-Nov
+- Development/test
+
+=Context: (Lower-/Uppercase)=
+context = Who is here?
+Is mainly for the user
+Not for the developer
+
+Context = Where I am
+User may care about it
+Developers only interest
+
+Dough-veloper
+
+=Ideas=
+Search recipes, filter by location.
+Maybe filter for Asian dishes or something

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.9.8)  22 SEP 2021 09:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.9.8)  22 SEP 2021 13:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -247,38 +247,47 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 [1
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./sections/concept.tex)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 24.
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./sections/concept.tex) (
+./sections/partial_code_comprehension.texpdfTeX warning (ext4): destination wit
+h the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.24 \end{document}
+l.4 \end{flushleft}
                     [1]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 24.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 13.
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 25.
+ [2]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 25.
  (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 24.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 24.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 25.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 25.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 3D2F3662717A0D5A6D92B894E7A2D8BD;301.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 24.
+(rerunfilecheck)             Checksum: 8D842DFAF05B3A43021EBB3672A6D293;611.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 25.
  ) 
 Here is how much of TeX's memory you used:
- 5179 strings out of 483183
- 80198 string characters out of 5966293
- 331115 words of memory out of 5000000
- 20123 multiletter control sequences out of 15000+600000
- 535405 words of font info for 34 fonts, out of 8000000 for 9000
+ 5211 strings out of 483183
+ 80662 string characters out of 5966293
+ 332118 words of memory out of 5000000
+ 20140 multiletter control sequences out of 15000+600000
+ 537843 words of font info for 42 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 34i,6n,30p,248b,358s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 34i,6n,30p,260b,368s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/pastasauce/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm120
 0.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pf
-b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on main.pdf (2 pages, 40501 bytes).
+b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on main.pdf (3 pages, 54679 bytes).
 PDF statistics:
- 56 PDF objects out of 1000 (max. 8388607)
- 47 compressed objects within 1 object stream
- 7 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 85 PDF objects out of 1000 (max. 8388607)
+ 74 compressed objects within 1 object stream
+ 13 named destinations out of 1000 (max. 500000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
 

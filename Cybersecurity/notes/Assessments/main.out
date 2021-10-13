@@ -1,0 +1,19 @@
+\BOOKMARK [1][-]{section.1}{Intro}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Vulnurabilities and exploits}{section.1}% 2
+\BOOKMARK [1][-]{section.2}{Exploit of the week}{}% 3
+\BOOKMARK [1][-]{section.3}{Penetration testing}{}% 4
+\BOOKMARK [2][-]{subsection.3.1}{Activities}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.2}{Gather information}{section.3}% 6
+\BOOKMARK [1][-]{section.4}{Passive Scanning}{}% 7
+\BOOKMARK [2][-]{subsection.4.1}{Netcraft}{section.4}% 8
+\BOOKMARK [1][-]{section.5}{Active Scanning}{}% 9
+\BOOKMARK [2][-]{subsection.5.1}{NetDiscover}{section.5}% 10
+\BOOKMARK [2][-]{subsection.5.2}{EtherApe}{section.5}% 11
+\BOOKMARK [1][-]{section.6}{Scanning Hosts}{}% 12
+\BOOKMARK [2][-]{subsection.6.1}{Ports-Quick Recap}{section.6}% 13
+\BOOKMARK [2][-]{subsection.6.2}{nmap}{section.6}% 14
+\BOOKMARK [3][-]{subsubsection.6.2.1}{Commands}{subsection.6.2}% 15
+\BOOKMARK [1][-]{section.7}{Tools}{}% 16
+\BOOKMARK [2][-]{subsection.7.1}{Legion}{section.7}% 17
+\BOOKMARK [2][-]{subsection.7.2}{Greenbone Vulnerability Manager}{section.7}% 18
+\BOOKMARK [2][-]{subsection.7.3}{Searchsploit}{section.7}% 19

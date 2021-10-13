@@ -1,0 +1,12 @@
+\section{Gradient Descent}
+
+\# vanilla gradient descent \\
+while True: \\
+	weights\_grad = evaluate\_gradient(loss\_function, data, weights) \\
+	weights += - step\_size = weights\_grad # perform parameter update \\
+\\
+\# vanilla minibatch gradient descent \\
+while True: \\
+	data\_batch = sample\_training\_data(data, 256) \\
+	weights\_grad = evaluate\_gradient(loss\_function, data\_batch, weights) \\
+	weights += - step\_size = weights\_grad \# perform parameter update

@@ -1,0 +1,31 @@
+\section{Active Scanning}
+\begin{flushleft}
+\begin{itemize}
+	\item whois
+		\begin{itemize}
+			\item Domain registrars keep recird of domains they host
+			\item If it is a private registration, you will see "Domain By Proxy" for the texhnical contact
+			\item Usage at command line: whois example.com or whois 192.168.0.1
+		\end{itemize}
+\end{itemize}
+* \textbf{host \& nslookup} can be used to query the Domain Name System (DNS) to obtain domain name or IP address
+
+\subsection{NetDiscover}
+Used to find hosts (i.e., IP's) on an internal network
+
+\textbf{netdiscover -r 192.168.1.0/24 -f}
+
+r: specify which network to scan every IP for
+
+-f: tells NetDiscover not to try every IP, but only a select few
+
+\subsection{EtherApe}
+\begin{itemize}
+	\item Packet sniffer/network monitoring
+	\item Can replay from file
+	\item Graphicallu display traffic
+	\item Color coded protocols display
+	\item ...
+\end{itemize}
+
+\end{flushleft}

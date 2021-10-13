@@ -1,0 +1,44 @@
+\section{Scanning Hosts}
+
+\subsection{Ports-Quick Recap}
+\begin{flushleft}
+Where does it come from? TCP and UDP define a port number
+
+What is the port number? A 16-bit unsigned interger, allowing multiple endpoints per UP addres and protocol
+
+How manu different ports can be used? 65535, port 0 is specially assigned to OS
+
+What is special about the first 1024 ports? Privileged ports which requires special privileges to access (normally sysadmin).
+\end{flushleft}
+
+\subsection{nmap}
+\begin{flushleft}
+\textbf{Network Mapper}
+free and open source tool for network discovery, network inventory, security auditing.
+
+Can use raw packets.
+
+Finding e.g., hosts, services, operating system and more.
+
+Supports plugins
+
+Can also be used to assess vulnerabilities.
+
+\subsubsection{Commands}
+-Px
+\begin{itemize}
+	\item Many different types
+	\item Stealthy to thorrough
+	\item Probe / ping
+	\item eg ICMP
+\end{itemize}
+
+-sY
+\begin{itemize}
+	\item Find open ports
+	\item Many different types
+	\item Stealthy to thorough, eg connect, Syn, Fin
+\end{itemize}
+
+nmap -PI \textbf{IP}: regular scan (ping)
+\end{flushleft}
